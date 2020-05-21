@@ -1,0 +1,4 @@
+José,m, 10, 5
+Diego,M, 10, 3
+joana,F, 6, 8
+Noeli,f, 10, 0
